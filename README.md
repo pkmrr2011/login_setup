@@ -6,7 +6,7 @@ This repository contains a Node.js application. To get started, follow the instr
 
 Installation
 1. Clone this repository to your local machine using the following command:
-git clone https://github.com/pkmrr2011/rudra-tech-assignment.git
+git clone https://github.com/pkmrr2011/login_setup.git
 
 2. Navigate to the project directory:
 cd my-node-project
